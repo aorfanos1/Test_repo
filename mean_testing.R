@@ -1,6 +1,6 @@
 ####A/B Testing Class 11/30
 
-set.seed(3)
+set.seed(2)
 grp.1 <- round(rlnorm(100,6))
 grp.2 <- round(rlnorm(100,6))
 
